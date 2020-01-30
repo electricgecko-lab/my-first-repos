@@ -1,5 +1,0 @@
-welcome to my git-repo
-Learning Git is going well so far.
-I added this line in the update-readme breanch
-It's cloudy outside today.
-
